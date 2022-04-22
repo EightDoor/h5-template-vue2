@@ -25,4 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 依赖
 - vant2 https://vant-contrib.gitee.io/vant/v2/
+- vue-cli https://cli.vuejs.org/zh/guide/
+
 
